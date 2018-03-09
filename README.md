@@ -1,0 +1,1 @@
+<img width="50%" src="https://rakontoengine.github.io/docs/logos/rakonto-core-logo.svg">
